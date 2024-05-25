@@ -1,0 +1,1 @@
+/*\copy worldhappiness FROM 'C:\Users\12063\OneDrive\Desktop\World_Happiness_Report_Anaysis_SQL_Project\csv_file\World_happiness_report_2024.csv' WITH (FORMAT csv, HEADER true, DELIMITER ',', ENCODING 'UTF8');*/
